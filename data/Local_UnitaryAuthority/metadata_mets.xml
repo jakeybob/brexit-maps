@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:METS xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/TR/xlink/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" OBJEDIT="/admin/item?itemID=483" OBJID="/handle/10672/305" PROFILE="DSPACE METS SIP Profile 1.0" LABEL="DSpace Item" ID="hdl:10672/305">
+<mets:dmdSec GROUPID="group_dmd_0" ID="dmd_1">
+<mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DIM">
+<mets:xmlData>
+<dim:dim dspaceType="ITEM">
+<dim:field element="contributor" language="" mdschema="dc">Gillard, Emily</dim:field>
+<dim:field element="contributor" qualifier="other" language="en" mdschema="dc">EDINA</dim:field>
+<dim:field element="coverage" qualifier="spatial" language="en" mdschema="dc">northlimit=60.7837;eastlimit=2.7043;southlimit=49.8176;westlimit=-7.4856;</dim:field>
+<dim:field element="coverage" qualifier="temporal" language="" mdschema="dc">2012-05-10</dim:field>
+<dim:field element="date" qualifier="accessioned" language="" mdschema="dc">2012-05-10T16:04:16Z</dim:field>
+<dim:field element="date" qualifier="available" language="" mdschema="dc">2012-05-10T16:04:16Z</dim:field>
+<dim:field element="date" qualifier="issued" language="" mdschema="dc">2012-05-10</dim:field>
+<dim:field element="identifier" language="" mdschema="dc">http://www.sharegeo.ac.uk/bitstream/handle/10672/305/Local_UnitaryAuthority.zip?sequence=1</dim:field>
+<dim:field element="identifier" qualifier="uri" language="" mdschema="dc">http://hdl.handle.net/10672/305</dim:field>
+<dim:field element="description" language="en" mdschema="dc">This dataset was made from the OS OpenData Boundary Line product http://www.ordnancesurvey.co.uk/oswebsite/products/boundary-line/index.html</dim:field>
+<dim:field element="description" qualifier="abstract" language="en" mdschema="dc">This data shows the local authority districts, council areas (Scotland) and unitary authorities for Great Britain. The attached Layer File can be used to symbolise the different types of boundaries. A JPEG image of the map is also contained in the download.</dim:field>
+<dim:field element="format" language="en" mdschema="dc">ESRI Shapefile</dim:field>
+<dim:field element="language" qualifier="iso" language="en" mdschema="dc">en</dim:field>
+<dim:field element="rights" language="en" mdschema="dc">This data is made available under the Creative Commons Attribution 3.0 license whose full text can be found at http://creativecommons.org/licenses/by/3.0/legalcode</dim:field>
+<dim:field element="subject" qualifier="classification" language="en" mdschema="dc">Boundaries</dim:field>
+<dim:field element="title" language="en" mdschema="dc">Great Britain Local Authority Districts Council Areas and Unitary Authorities</dim:field>
+<dim:field element="type" language="en" mdschema="dc">GIS vector data</dim:field>
+</dim:dim>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="LICENSE">
+<mets:file CHECKSUMTYPE="MD5" GROUPID="group_file_716" ID="file_716" MIMETYPE="text/plain; charset=utf-8" SIZE="127" CHECKSUM="44d9ed4f6902860fbb92bf26df40fc3b">
+<mets:FLocat LOCTYPE="URL" xlink:title="license.txt" xlink:type="locator" xlink:href="/bitstream/handle/10672/305/license.txt?sequence=1"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="CONTENT">
+<mets:file CHECKSUMTYPE="MD5" GROUPID="group_file_717" ID="file_717" MIMETYPE="application/zip" SIZE="20033765" CHECKSUM="4b8354b4e3bb05d36213b512c8ccfad6">
+<mets:FLocat LOCTYPE="URL" xlink:title="Local_UnitaryAuthority2012.zip" xlink:label="" xlink:type="locator" xlink:href="/bitstream/handle/10672/305/Local_UnitaryAuthority2012.zip?sequence=2"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap LABEL="DSpace" TYPE="LOGICAL">
+<mets:div DMDID="dmd_1" TYPE="DSpace Item">
+<mets:div ID="div_2" TYPE="DSpace Content Bitstream">
+<mets:fptr FILEID="file_717"/>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:METS>
