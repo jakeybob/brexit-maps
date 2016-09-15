@@ -1,0 +1,149 @@
+name: testEnvPy53
+dependencies:
+- alabaster=0.7.8=py35_0
+- appnope=0.1.0=py35_0
+- babel=2.3.3=py35_0
+- backports=1.0=py35_0
+- basemap=1.0.7=np110py35_0
+- bottleneck=1.0.0=np110py35_1
+- click=6.6=py35_0
+- cligj=0.2.0=py35_0
+- curl=7.45.0=0
+- cycler=0.10.0=py35_0
+- decorator=4.0.10=py35_0
+- docutils=0.12=py35_2
+- entrypoints=0.2.2=py35_0
+- fiona=1.6.0=np110py35_0
+- freetype=2.5.5=1
+- geos=3.3.3=0
+- get_terminal_size=1.0.0=py35_0
+- h5py=2.6.0=np110py35_1
+- hdf4=4.2.11=0
+- hdf5=1.8.16=0
+- imagesize=0.7.1=py35_0
+- ioos::descartes=1.0.2=py35_0
+- ioos::expat=2.1.0=1
+- ioos::freexl=1.0.2=0
+- ioos::gdal=1.11.4=np110py35_7
+- ioos::geopandas=0.2.0.dev0=py35_0
+- ioos::geopy=1.10.0=py35_0
+- ioos::giflib=5.1.2=1
+- ioos::jasper=1.900.1=5
+- ioos::json-c=0.12=0
+- ioos::libspatialindex=1.8.5=1
+- ioos::libspatialite=4.3.0a=3
+- ioos::openjpeg=2.1.0=3
+- ioos::proj.4=4.9.1=2
+- ioos::pyproj=1.9.5.1=py35_0
+- ioos::rtree=0.8.2=py35_2
+- ipykernel=4.3.1=py35_0
+- ipython=4.2.0=py35_1
+- ipython-notebook=4.0.4=py35_0
+- ipython-qtconsole=4.0.1=py35_0
+- ipython_genutils=0.1.0=py35_0
+- ipywidgets=4.1.1=py35_0
+- jbig=2.1=0
+- jedi=0.9.0=py35_1
+- jinja2=2.8=py35_1
+- jpeg=8d=1
+- jsonschema=2.5.1=py35_0
+- jupyter=1.0.0=py35_3
+- jupyter_client=4.3.0=py35_0
+- jupyter_console=4.1.1=py35_0
+- jupyter_core=4.1.0=py35_0
+- krb5=1.13.2=0
+- libgcc=4.8.5=1
+- libgdal=2.0.0=0
+- libnetcdf=4.3.3.1=3
+- libpng=1.6.22=0
+- libtiff=4.0.6=2
+- libxml2=2.9.2=0
+- markupsafe=0.23=py35_2
+- matplotlib=1.5.1=np110py35_0
+- mistune=0.7.2=py35_1
+- mkl=11.3.3=0
+- mpmath=0.19=py35_1
+- nb_conda=1.1.0=py35_0
+- nb_conda_kernels=1.0.3=py35_0
+- nbconvert=4.2.0=py35_0
+- nbformat=4.0.1=py35_0
+- notebook=4.2.1=py35_0
+- numpy=1.10.4=py35_2
+- openssl=1.0.2h=1
+- pandas=0.18.1=np110py35_0
+- pandas-datareader=0.2.1=py35_0
+- path.py=8.2.1=py35_0
+- pep8=1.7.0=py35_0
+- pexpect=4.0.1=py35_0
+- pickleshare=0.7.2=py35_0
+- pillow=3.3.0=py35_0
+- pip=8.1.2=py35_0
+- postgresql=9.1.4=1
+- psutil=4.3.0=py35_0
+- psycopg2=2.6.1=py35_1
+- ptyprocess=0.5.1=py35_0
+- pyflakes=1.2.3=py35_0
+- pygments=2.1.3=py35_0
+- pyopengl=3.1.1a1=np110py35_0
+- pyopengl-accelerate=3.1.1a1=np110py35_0
+- pyparsing=2.1.4=py35_0
+- pyqt=4.11.4=py35_3
+- pyqtgraph=0.9.10=py35_1
+- pysal=1.11.1=py35_0
+- python=3.5.1=5
+- python-dateutil=2.5.3=py35_0
+- python.app=1.2=py35_4
+- pytz=2016.4=py35_0
+- pyzmq=15.2.0=py35_1
+- qgrid=0.3.1=py35_0
+- qt=4.8.7=3
+- qtconsole=4.2.1=py35_0
+- readline=6.2=2
+- requests=2.10.0=py35_0
+- requests-file=1.4=py35_0
+- rope=0.9.4=py35_1
+- runipy=0.1.3=py35_0
+- scikit-learn=0.17.1=np110py35_2
+- scipy=0.17.1=np110py35_1
+- setuptools=23.0.0=py35_0
+- shapely=1.5.11=py35_0
+- simplegeneric=0.8.1=py35_1
+- sip=4.16.9=py35_0
+- six=1.10.0=py35_0
+- snowballstemmer=1.2.1=py35_0
+- sphinx=1.4.1=py35_0
+- sphinx_rtd_theme=0.1.9=py35_0
+- spyder=2.3.9=py35_0
+- sqlalchemy=1.0.13=py35_0
+- sqlite=3.13.0=0
+- sympy=1.0=py35_0
+- terminado=0.6=py35_0
+- tk=8.5.18=0
+- tornado=4.3=py35_1
+- traitlets=4.2.1=py35_0
+- wheel=0.29.0=py35_0
+- xerces-c=3.1.2=0
+- xz=5.2.2=0
+- yt=3.2.3=py35_0
+- zlib=1.2.8=3
+- pip:
+  - backports.shutil-get-terminal-size==1.0.0
+  - click-plugins==1.0.3
+  - descartes==1.0.2
+  - gdal==1.11.4
+  - geopandas==0.1.0.dev0
+  - geopy==1.10.0
+  - ipython-genutils==0.1.0
+  - jupyter-client==4.3.0
+  - jupyter-console==4.1.1
+  - jupyter-core==4.1.0
+  - lxml==3.6.0
+  - munch==2.0.4
+  - nb-conda==1.1.0
+  - nb-conda-kernels==1.0.3
+  - pyproj==1.9.5.1
+  - rope-py3k==0.9.4.post1
+  - rtree==0.8.2
+  - sphinx-rtd-theme==0.1.9
+prefix: /Users/bob/anaconda/envs/testEnvPy53
+
